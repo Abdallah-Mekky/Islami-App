@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/drawable-anydpi/ic_back.xml" value="0.2203125" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/drawable-anydpi/ic_dark_mode.xml" value="0.2203125" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/drawable-anydpi/ic_language.xml" value="0.2203125" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/drawable-anydpi/ic_menu.xml" value="0.2203125" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/drawable-night/custom_sura_details.xml" value="0.2203125" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/drawable/bottom_navigation_view_selector.xml" value="0.2203125" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/drawable/custom_sura_details.xml" value="0.2203125" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/drawable/custom_zekr_name.xml" value="0.2203125" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/drawable/custom_zekr_number.xml" value="0.2203125" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/drawable/ic_menu_camera.xml" value="0.2203125" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.2203125" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/drawable/ic_play.xml" value="0.2203125" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/drawable/ic_skip_next.xml" value="0.2203125" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/drawable/ic_skip_previous.xml" value="0.2203125" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/drawable/navigation_view_side_menu_selector.xml" value="0.2203125" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/drawable/side_nav_bar.xml" value="0.2203125" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/drawable/splash_night.xml" value="0.2203125" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/layout/activity_headth_details.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/layout/activity_sura_details.xml" value="0.2" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/layout/app_bar_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/layout/app_bar_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/layout/content_headth_details.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/layout/content_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/layout/content_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/layout/content_sura_details.xml" value="0.22" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/layout/fragment_first.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/layout/fragment_second.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/layout/fragment_slideshow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/layout/headth.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/layout/headth_details_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/layout/headth_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/layout/headth_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/layout/nav_header_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/layout/nav_header_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/layout/quran_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/layout/quran_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/layout/radio_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/layout/sebha_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/layout/sura_details_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/menu/activity_main_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/menu/home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/menu/main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2203125" />
+        <entry key="..\:/Route_Android_Diploma/AndroidTasks/islami2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

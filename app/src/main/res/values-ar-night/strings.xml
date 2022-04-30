@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">islami</string>
+    <string name="dark_mode">الوضع الفاتح</string>
+    <string name="language">"اللغة "</string>
+    <string name="headthNumberText_HeadthFragment">الأحاديث</string>
+    <string name="numberOfHeadth_HeadthDetails">الحديث رقم 1</string>
+    <string name="settingsText_HomeScreen">الإعدادات</string>
+    <string name="quranText_BottomNavigationViewMenu">القرآن الكريم</string>
+    <string name="headthText_BottomNavigationViewMenu">الأحاديث</string>
+    <string name="sebhaText_BottomNavigationViewMenu">المسبحة</string>
+    <string name="radioText_BottomNavigationViewMenu">الراديو</string>
+    <string name="islamiText_All">إسلامي</string>
+    <string name="headthNumberText_Rcycler_HeadthFragment">الحديث رقم 1</string>
+    <string name="suraName_QuranFragment">اسم السورة</string>
+    <string name="holyQuranRadio_RadioFragment">إذاعة القرآن الكريم</string>
+    <string name="numberOfTasbeahText_SebhaFragment">"عدد التسبيحات "</string>
+
+</resources>

@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">islami</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_sura_details">SuraDetailsActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_headth_details">HeadthDetailsActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+
+
+
+
+    <string name="dark_mode">Light Mode</string>
+    <string name="language">Language</string>
+    <string name="numberOfHeadth_HeadthDetails" >Headth Number 1</string>
+    <string name="settingsText_HomeScreen" >Settings</string>
+    <string name="quranText_BottomNavigationViewMenu" >Holy Quran</string>
+    <string name="headthText_BottomNavigationViewMenu" >Hadith</string>
+    <string name="sebhaText_BottomNavigationViewMenu" >Rosary </string>
+    <string name="radioText_BottomNavigationViewMenu" >Radio</string>
+    <string name="headthNumberText_HeadthFragment" >Headth Number</string>
+    <string name="islamiText_All" >Islami</string>
+    <string name="headthNumberText_Rcycler_HeadthFragment" >Headth Number 1</string>
+    <string name="suraName_QuranFragment" >Sura Name</string>
+    <string name="holyQuranRadio_RadioFragment" >Holy Quran Radio</string>
+    <string name="numberOfTasbeahText_SebhaFragment" >Number of Praises</string>
+
+
+    <string name="contentOfHeadth_HeadthDetails">عن ابي هريرة</string>
+    <string name="nameOfSura_SuraDetails">سورة الفاتحة</string>
+    <string name="contentOfSura_SuraDetails">الم</string>
+    <string name="numberOfTasbeah_SebhaFragment">0</string>
+    <string name="suraName_Recycler_QuranFragment">الفاتحة</string>
+    <string name="zekrName_SebhaFragment">سبحان الله</string>
+
+
+
+
+</resources>

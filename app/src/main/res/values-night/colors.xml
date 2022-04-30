@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="parimary_color">#141A2E</color>
+    <color name="variant_color">#0C101C</color>
+    <color name="islami_Text">#FFFFFFFF</color>
+    <color name="sura_Details_Color">#FACC1D</color>
+    <color name="lines_Color">#FACC1D</color>
+    <color name="bottom_Navigation_View_Color">#141A2E</color>
+
+    <color name="zekr_Name_Background">#FACC1D</color>
+    <color name="zekr_Name_Text">#FF000000</color>
+
+    <color name="navigation_View_Color">#141A2E</color>
+
+    <color name="nav_Header_Color">#B1993D</color>
+
+
+    <color name="zekr_Number_Background">#0D1222</color>
+
+
+    <color name="sura_and_headth_details_Background">#141A2E</color>
+
+    <color name="content_Bottom_Navigation_View_Background">#FACC1D</color>
+    <color name="navigationView_Side_Menu_Color">#FFFFFFFF</color>
+
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00F8F5F5</color>
+</resources>
