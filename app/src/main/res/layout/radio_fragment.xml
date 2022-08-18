@@ -32,18 +32,32 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintWidth_percent=".90" />
 
+
     <TextView
         android:id="@+id/holy_Quran_Radio"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="40dp"
         android:fontFamily="@font/elmessiri_semibold"
+        android:gravity="center"
         android:text="@string/holyQuranRadio_RadioFragment"
         android:textColor="@color/islami_Text"
         android:textSize="25sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/radio_Image" />
+
+    <ProgressBar
+        android:id="@+id/progress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:indeterminateTint="@color/lines_Color"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@id/play"
+        app:layout_constraintEnd_toEndOf="@id/play"
+        app:layout_constraintStart_toStartOf="@id/play"
+        app:layout_constraintTop_toTopOf="@id/play" />
+
 
     <ImageView
         android:id="@+id/play"
@@ -56,6 +70,7 @@
         app:layout_constraintTop_toBottomOf="@id/holy_Quran_Radio" />
 
     <ImageView
+        android:id="@+id/previous"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="100dp"
@@ -65,6 +80,7 @@
         app:layout_constraintTop_toBottomOf="@id/holy_Quran_Radio" />
 
     <ImageView
+        android:id="@+id/next"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="60dp"
