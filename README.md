@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/80880411/187096157-0f92384f-4a4f-4eac-
 
 
 # Network Calls
-* [Retrofit](https://square.github.io/retrofit/)
+* [Retrofit](https://square.github.io/retrofit/) - A type-safe HTTP client for Android and Java.
 
 # Background tasks
-* [Kotlin Coroutines](https://bit.ly/3Kq3ec3) 
+* [Kotlin Coroutines](https://bit.ly/3Kq3ec3) - A coroutine is a concurrency design pattern that you can use on Android to simplify code that executes asynchronously.
