@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/80880411/187096157-0f92384f-4a4f-4eac-
 
 # Tools
 * [Kotlin](https://kotlinlang.org/)
-* [Google gson](https://github.com/google/gson) For parsing JSON data.
+* [Google gson](https://github.com/google/gson) - For parsing JSON data.
 
 
 # Network Calls
