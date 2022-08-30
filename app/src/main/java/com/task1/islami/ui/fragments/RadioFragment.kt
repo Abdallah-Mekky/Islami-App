@@ -107,10 +107,13 @@ class RadioFragment : Fragment() {
                 progress.isVisible = true
 
                 initMediaPlyer(postion)
+                playButton.setImageResource(R.drawable.ic_pause)
             } else {
                 isPlaying = false
                 progress.isVisible = false
                 mediaPlayer.stop()
+                playButton.setImageResource(R.drawable.ic_play)
+
             }
         }
     }
@@ -138,6 +141,7 @@ class RadioFragment : Fragment() {
                 mediaPlayer.stop()
                 postion--
                 initMediaPlyer(postion)
+
             }
         }
     }
