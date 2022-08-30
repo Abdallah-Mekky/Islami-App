@@ -1,5 +1,7 @@
 # Islami App
 
+Please ⭐️ this repo and share it with others.
+
 # Description
 
 This project is an Islamic application it contains some features such as reading the holy Quran, hadeeth, and 
@@ -16,7 +18,7 @@ Dark Mode
 ![IslamiDark](https://user-images.githubusercontent.com/80880411/187093924-898c9c58-8353-4f19-9fec-aa38e6865867.PNG)
 
 # Video
-https://user-images.githubusercontent.com/80880411/187096157-0f92384f-4a4f-4eac-84fd-8123cd9af188.mp4
+https://user-images.githubusercontent.com/80880411/187327972-cec0d9dc-617f-4602-89fd-fb0eaf68bffb.mp4
 
 # Tools
 * [Kotlin](https://kotlinlang.org/)
